@@ -1,0 +1,21 @@
+{
+  "name": "New_Bot",
+  "version": "1.0.0",
+  "description": "Lastshot Bot End Of Description",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/builders": "^1.0.0",
+    "axios": "^1.7.2",
+    "discord.js": "^13.1.0",
+    "fs": "^0.0.1-security",
+    "winston": "^3.13.0"
+  },
+  "engines": {
+    "node": ">=16.6.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
